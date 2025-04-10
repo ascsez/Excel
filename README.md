@@ -8,3 +8,4 @@ Link to the data file: https://www.kaggle.com/code/sadiqshah/bike-store-sales-in
    finds
    VLOOKUP(): Left to right 
    
+2 projects in Excel demonstrating Data Cleaning, Analysis and Visualization.
